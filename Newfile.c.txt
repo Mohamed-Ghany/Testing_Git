@@ -5,3 +5,6 @@ Line 3 on test branch after first push
 
 
 Changes on UI
+-----
+Line 1 on Test Branch 2
+Line 2 on Test Branch 2
